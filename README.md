@@ -1,16 +1,14 @@
-## Hi there 👋
+### seja bem vindo ao meu perfil 🐲
 
-<!--
-**isra24Gamer/isra24Gamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+eu me chamo israel de freitas
 
-Here are some ideas to get you started:
+1. eu estou estudando no [alura](https://www.alura.com.br)
+2. eu estou aprendendo a desenvolver na linguagem javaScript
+3. utilizo para a oganizaçao , realizaçao e compartilhamento de meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ### você pode entrar em contato comigo 📫
+
+   00001128564932SP@al.educacao.sp.gov.br
+
+   ![](https://media1.tenor.com/m/CWs6vVsNrbkAAAAd/seerlight-aesthetic.gif)
+  
